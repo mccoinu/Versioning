@@ -42,8 +42,8 @@ public class Prova1 {
 		return check;
 	}
 
-	public void setCheck(boolean check) {
-		this.check = check;
-	}
-	
+	//public void setCheck(boolean check) {
+	//	this.check = check;
+	//}
+	// Questa è una prova
 }
