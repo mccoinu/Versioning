@@ -46,6 +46,4 @@ public class Prova1 {
 		this.check = check;
 	}
 	
-	// Questo commento è solo a scopo di test
-	
 }
