@@ -46,4 +46,5 @@ public class Prova1 {
 		this.check = check;
 	}
 	
+	
 }
